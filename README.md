@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @paopaolin
-- 👀 I’m interested in math,fintech(blockchain)
+- 👀 I’m interested in math,fintech(blockchain),AI
 - 🌱 I’m currently learning fintech 
 - 📫 How to reach me 20099185d@connect.polyu.hk
+  
 
 <!---
 paopaolin/paopaolin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
