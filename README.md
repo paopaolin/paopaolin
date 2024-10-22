@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paopaolin
-- 👀 I’m interested in math,fintech(blockchain),AI
+- 👀 I’m interested in Data Science,fintech(blockchain),AI
 - 🌱 I’m currently learning fintech and AI
 - 📫 How to reach me 20099185d@connect.polyu.hk
   
